@@ -1,4 +1,4 @@
-# Steriolithography (SLA)  
+# Stereolithography (SLA)  
 ### Resin based, does not use filament or powder
 Uses a beam of UV light to solidify the resin (Photopolymerization) 
 - Pros: very smooth surface, used for visual models and is easy to paint
@@ -7,3 +7,8 @@ Uses a beam of UV light to solidify the resin (Photopolymerization)
 - Standard resin (milky white)
 - Grey resin
 - Transparent resin
+
+### Usage:
+- Medcal models
+- Jewelry molds
+- Prototyping
