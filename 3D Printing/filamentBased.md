@@ -1,6 +1,6 @@
 # Fused Depositon Modelling (FDM)
 ## or Fused Filament Fabrication (FFF)
-### thermoplastic material is efexted from a heated nozzle and buils the part by layers
+### thermoplastic material is ejected from a heated nozzle and buils the part by layers
 ### Additave manufactoring process 
 - Pros: Cost effective, wide range of thermoplastic materials available
 - Cons: Warping, Printed layers are visible (Low resolution), parts are anisotropic
