@@ -1,1 +1,1 @@
-started day sunday aug 30
+start day sunday aug 30
