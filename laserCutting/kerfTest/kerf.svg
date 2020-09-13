@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="120.6182mm"
+   height="70.072693mm"
+   viewBox="0 0 120.6182 70.072695"
+   version="1.1"
+   id="svg12"
+   sodipodi:docname="kerf.svg"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)">
+  <metadata
+     id="metadata18">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs16" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1366"
+     inkscape:window-height="704"
+     id="namedview14"
+     showgrid="false"
+     inkscape:zoom="0.51700672"
+     inkscape:cx="204.42509"
+     inkscape:cy="97.896922"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="Sketch" />
+  <g
+     id="Sketch"
+     transform="matrix(1,0,0,-1,0.175,0.175)">
+    <path
+       id="Sketch_w0000"
+       d="m 34.9,-50 v 30 H 25 V -50 H 15 v 30 H 5 V -50 H 0 V 0 H 120.26821 V -50 H 113.5 v 30 H 104 V -50 H 94 v 30 h -9.6 v -30"
+       style="fill:none;fill-rule:evenodd;stroke:#ff0000;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:connector-curvature="0" />
+    <path
+       id="Sketch_w0001"
+       d="m 54.7,-50 v 30 h -9.8 v -30"
+       style="fill:none;fill-rule:evenodd;stroke:#ff0000;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:connector-curvature="0" />
+    <path
+       id="Sketch_w0002"
+       d="m 74.4,-50 v 30 h -9.7 v -30"
+       style="fill:none;fill-rule:evenodd;stroke:#ff0000;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:connector-curvature="0" />
+    <path
+       id="Sketch_w0003"
+       d="m 44.99,-50 h -10"
+       style="fill:none;fill-rule:evenodd;stroke:#ff0000;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:connector-curvature="0" />
+    <path
+       id="Sketch_w0004"
+       d="m 64.97,-50 h -10"
+       style="fill:none;fill-rule:evenodd;stroke:#ff0000;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:connector-curvature="0" />
+    <path
+       id="Sketch_w0005"
+       d="m 84.94,-50 h -10"
+       style="fill:none;fill-rule:evenodd;stroke:#ff0000;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:connector-curvature="0" />
+    <path
+       id="Sketch_w0006"
+       d="M 5.9155621,-69.722698 H 40.915562 v 10 H 5.9155621 v -10"
+       style="fill:none;fill-rule:evenodd;stroke:#ff0000;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:connector-curvature="0" />
+    <title
+       id="title9">b'Sketch'</title>
+  </g>
+</svg>
